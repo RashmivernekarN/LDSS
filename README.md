@@ -1,6 +1,6 @@
 # LDSS - Staff Driven Smart Solutions / IT Park Development Works
 
-### Hubballi IT Park, Hosur - Transformation Journey
+### IT Park, Hosur - Hubballi- Transformation Journey
 
 > "From Waste to Wonder - A Journey of Teamwork & Dedication"
 
@@ -31,7 +31,7 @@ This repo contains PPTs and Photo Albums of our major works:
 #### Project By
 **Mrs. Rashmi Vernekar - Security Supervisor**
 **& The Dedicated Security and Housekeeping Team**
-Hubli IT Park, Deshpande Nagar
+IT Park,Hosur-Hubli.
 
 #### Vision
 To maintain IT Park not just as a building, but as a clean, green, safe and divine workplace for all companies and employees.
