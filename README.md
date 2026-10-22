@@ -30,8 +30,8 @@ This repo contains PPTs and Photo Albums of our major works:
 
 #### Project By
 **Mrs. Rashmi Vernekar - Security Supervisor**
-**& The Dedicated Security and Housekeeping Team**
-IT Park,Hosur-Hubli.
+**& The Dedicated Security, Electrician and Housekeeping Team**
+IT Park, Hosur - Hubli.
 
 #### Vision
 To maintain IT Park not just as a building, but as a clean, green, safe and divine workplace for all companies and employees.
